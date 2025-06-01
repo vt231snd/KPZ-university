@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\-Software-design\\lab-2\\Lab-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8241750-C8A8-4807-9A76-22EE585F53D7}|Lab-2\\Subscription.csproj|c:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\-software-design\\lab-2\\lab-2\\lab-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8241750-C8A8-4807-9A76-22EE585F53D7}|Lab-2\\Subscription.csproj|solutionrelative:lab-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8241750-C8A8-4807-9A76-22EE585F53D7}|Lab-2\\Subscription.csproj|c:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\-software-design\\lab-2\\lab-2\\lab-2\\builder\\heroinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8241750-C8A8-4807-9A76-22EE585F53D7}|Lab-2\\Subscription.csproj|solutionrelative:lab-2\\builder\\heroinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8241750-C8A8-4807-9A76-22EE585F53D7}|Lab-2\\Subscription.csproj|c:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\-software-design\\lab-2\\lab-2\\lab-2\\builder\\herobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8241750-C8A8-4807-9A76-22EE585F53D7}|Lab-2\\Subscription.csproj|solutionrelative:lab-2\\builder\\herobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8241750-C8A8-4807-9A76-22EE585F53D7}|Lab-2\\Subscription.csproj|c:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\-software-design\\lab-2\\lab-2\\lab-2\\builder\\enemybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8241750-C8A8-4807-9A76-22EE585F53D7}|Lab-2\\Subscription.csproj|solutionrelative:lab-2\\builder\\enemybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8241750-C8A8-4807-9A76-22EE585F53D7}|Lab-2\\Subscription.csproj|c:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\-software-design\\lab-2\\lab-2\\lab-2\\builder\\characterinfobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8241750-C8A8-4807-9A76-22EE585F53D7}|Lab-2\\Subscription.csproj|solutionrelative:lab-2\\builder\\characterinfobuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8241750-C8A8-4807-9A76-22EE585F53D7}|Lab-2\\Subscription.csproj|c:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\-software-design\\lab-2\\lab-2\\lab-2\\builder\\characterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8241750-C8A8-4807-9A76-22EE585F53D7}|Lab-2\\Subscription.csproj|solutionrelative:lab-2\\builder\\characterbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HeroInfo.cs",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\-Software-design\\lab-2\\Lab-2\\Lab-2\\Builder\\HeroInfo.cs",
+              "RelativeDocumentMoniker": "Lab-2\\Builder\\HeroInfo.cs",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\-Software-design\\lab-2\\Lab-2\\Lab-2\\Builder\\HeroInfo.cs",
+              "RelativeToolTip": "Lab-2\\Builder\\HeroInfo.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:07:44.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HeroBuilder.cs",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\-Software-design\\lab-2\\Lab-2\\Lab-2\\Builder\\HeroBuilder.cs",
+              "RelativeDocumentMoniker": "Lab-2\\Builder\\HeroBuilder.cs",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\-Software-design\\lab-2\\Lab-2\\Lab-2\\Builder\\HeroBuilder.cs",
+              "RelativeToolTip": "Lab-2\\Builder\\HeroBuilder.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:07:35.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyBuilder.cs",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\-Software-design\\lab-2\\Lab-2\\Lab-2\\Builder\\EnemyBuilder.cs",
+              "RelativeDocumentMoniker": "Lab-2\\Builder\\EnemyBuilder.cs",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\-Software-design\\lab-2\\Lab-2\\Lab-2\\Builder\\EnemyBuilder.cs",
+              "RelativeToolTip": "Lab-2\\Builder\\EnemyBuilder.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAA/wEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:07:25.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CharacterInfoBuilder.cs",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\-Software-design\\lab-2\\Lab-2\\Lab-2\\Builder\\CharacterInfoBuilder.cs",
+              "RelativeDocumentMoniker": "Lab-2\\Builder\\CharacterInfoBuilder.cs",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\-Software-design\\lab-2\\Lab-2\\Lab-2\\Builder\\CharacterInfoBuilder.cs",
+              "RelativeToolTip": "Lab-2\\Builder\\CharacterInfoBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:07:04.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CharacterBuilder.cs",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\-Software-design\\lab-2\\Lab-2\\Lab-2\\Builder\\CharacterBuilder.cs",
+              "RelativeDocumentMoniker": "Lab-2\\Builder\\CharacterBuilder.cs",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\-Software-design\\lab-2\\Lab-2\\Lab-2\\Builder\\CharacterBuilder.cs",
+              "RelativeToolTip": "Lab-2\\Builder\\CharacterBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:06:54.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\-Software-design\\lab-2\\Lab-2\\Lab-2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab-2\\Program.cs",
+              "ToolTip": "C:\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\\\u043A\u043E\u043D\u0441\u0442\u0440\u0443\u044E\u0432\u0430\u043D\u043D\u044F\\-Software-design\\lab-2\\Lab-2\\Lab-2\\Program.cs",
+              "RelativeToolTip": "Lab-2\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwDoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:52:04.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
